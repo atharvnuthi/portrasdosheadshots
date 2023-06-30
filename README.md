@@ -3,6 +3,7 @@
 - Game Analytics & Techniques
 - Data Analysis & Visualization, Machine Learning (Data Science)
 - Python - Pandas, Numpy, Matplotlib, Seaborn
+- Working with .csv files  
 
 ## Passos
 
