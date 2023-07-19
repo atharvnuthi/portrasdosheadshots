@@ -7,13 +7,11 @@
 
 ## Passos
 
-
 ```
 pip install -r requirements.txt
 ```
 
-Criar pasta com nome 'data' e adicionar os dados do site:
-https://www.kaggle.com/datasets/skihikingkevin/csgo-matchmaking-damage
+Criar pasta com nome 'data' e adicionar os dados que estão neste link: https://www.dropbox.com/scl/fi/jwvupst8rccj13yi29slr/dados.zip?rlkey=kz2hcccxg67vukqqcxcadx6zt&dl=0
 
 <br>
 
